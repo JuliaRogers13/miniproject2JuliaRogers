@@ -7,7 +7,7 @@
 
 ## Description
 
-This project will be using the packages NumPy and Matplotlib in order to create 5 graphs that output as PNG files.
+This project will be using Pandas dataframes. Using API or datasets to get the information needed to answer a question.
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ python main.py
 
 ### Output
 
-This should create 5 graphs in charts/ for each of the five stocks.
+fancy charts
 
 ## Authors
 
@@ -37,3 +37,4 @@ Julia Rogers
 * [matplotlib](https://matplotlib.org/stable/tutorials/pyplot.html)
 * [classyoutubetutorial2](https://www.youtube.com/watch?v=fFss4RzSkOU)
 * [classyoutubetutorial1](https://www.youtube.com/watch?v=XcEXR-9wT8I)
+* [classyoutubePandasDataframes](https://www.youtube.com/watch?v=WOs5oqXI7EA)
